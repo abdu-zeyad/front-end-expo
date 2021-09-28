@@ -85,7 +85,7 @@ const Profile = () => {
                 style={{
                     flex: 1,
                     paddingHorizontal: SIZES.padding,
-                    backgroundColor: COLORS.black
+                    backgroundColor: COLORS.white
                 }}
             >
                 {/*Header*/}

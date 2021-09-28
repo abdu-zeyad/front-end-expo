@@ -92,7 +92,7 @@ const Home = ({ getHoldings, getCoinMarket, coins, myHoldings }) => {
             <View
                 style={{
                     flex: 1,
-                    backgroundColor: COLORS.black
+                    backgroundColor: COLORS.white
                 }}>
                 {renderWalletInfoSection()}
                 <Chart

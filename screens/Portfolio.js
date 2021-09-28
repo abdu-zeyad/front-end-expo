@@ -50,7 +50,7 @@ const Portfolio = ({ getHoldings, myHoldings }) => {
             <View
                 style={{
                     flex: 1,
-                    backgroundColor: COLORS.black
+                    backgroundColor: COLORS.white
                 }}
             >
                 {/* Header - Current balance*/}
