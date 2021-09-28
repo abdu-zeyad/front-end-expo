@@ -338,7 +338,7 @@ const Market = ({ getCoinMarket, coins }) => {
             <View
                 style={{
                     flex: 1,
-                    backgroundColor: COLORS.white
+                    backgroundColor: COLORS.black
                 }}
             >
                 {/* Header */}
